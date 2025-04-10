@@ -1,6 +1,6 @@
 # Titanic ML Project 
 
-This project aims to predict passenger survival using data from the Titanic dataset. It includes preprocessing, feature engineering, and training multiple ML models.
+This project aims to predict passenger survival using data from the Titanic dataset. It includes visualizations, preprocessing, feature engineering, and training multiple ML models.
 
 ## Features Used
 - Pclass
